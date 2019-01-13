@@ -1,0 +1,7 @@
+webdriver.driver = chrome
+webdriver.chrome.driver = chromedriver
+serenity.project.name = Delta Sapphire Testing Result Mobile+Web
+serenity.dry.run=false
+serenity.test.root=net.thucydides.showcase.cucumber.junit
+webdriver.timeouts.implicitlywait = 20000
+serenity.take.screenshots=BEFORE_AND_AFTER_EACH_STEP
